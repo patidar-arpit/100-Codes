@@ -21,8 +21,7 @@ class NoofSubArray{
                }
                else{
                    map.put(prevSum,1);
-               }
-           
+               }     
        }
        
        return count;
